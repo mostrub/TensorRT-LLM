@@ -15,7 +15,7 @@ pynvml>=11.5.0
 sentencepiece>=0.1.99
 tensorrt==9.2.0.post12.dev5
 torch
-transformers==4.33.1
+transformers==4.38.0
 wheel
 optimum
 evaluate
