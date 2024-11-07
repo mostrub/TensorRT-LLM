@@ -16,9 +16,9 @@ sentencepiece>=0.1.99
 tensorrt==9.2.0.post12.dev5
 tokenizers==0.13.3
 # Default torch is CPU-only on Windows, so need to specify a torch version with GPU support
-torch==2.1.0+cu121
+torch==2.2.0
 torchdata==0.7.0
 torchtext==0.16.0+cpu
 torchvision==0.16.0+cu121
-transformers==4.33.1
+transformers==4.38.0
 wheel
